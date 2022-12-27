@@ -12,7 +12,8 @@ int main() {
   sum = first_number + second_number;
 
   // prints sum 
-  cout << first_number << " + " <<  second_number << " = " << sum;     
+  cout << first_number << " + " <<  second_number << " = " << sum;
+  cout<<"hello world"<<endl;     
 
   return 0;
 }
