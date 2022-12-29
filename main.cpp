@@ -5,6 +5,10 @@ void bubblesort(){
 	//
 }
 
+void quicksort(){
+	//
+}
+
 int main() {
 
   int first_number, second_number, sum;
