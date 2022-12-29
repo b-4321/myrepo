@@ -9,6 +9,10 @@ void quicksort(){
 	//
 }
 
+void mergesort(){
+	//
+}
+
 int main() {
 
   int first_number, second_number, sum;
