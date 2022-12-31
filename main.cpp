@@ -10,10 +10,14 @@ void quicksort(){
 }
 
 void mergesort(){
-	//
+  /
 }
 
-kkljjjhjjj
+
+void insertionsort(){
+
+  /
+}
 
 int main() {
 
